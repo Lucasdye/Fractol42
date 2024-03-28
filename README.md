@@ -1,2 +1,2 @@
-# Fractol42
-Fractol 42 school project (2022)
+# Fract-ol42
+42 fractal graphical project (2022)
